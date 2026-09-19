@@ -71,60 +71,41 @@ const vinoth = {
 
 ---
 
-## 🛠️ Skills & Tech Stack
-
-**Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,php,html,css&theme=dark" />
-</p>
-
-**Frameworks & Libraries**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&theme=dark" />
-</p>
-
-**Databases & Cloud**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark" />
-</p>
-
-**Tools & Design**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ps,figma&theme=dark" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinothgeethika&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48" />&nbsp;
 </p>
 
 ---
+
+<!--
+  OPTIONAL: self-generated GitHub stats (never breaks, no third-party servers).
+  1. Add .github/workflows/metrics.yml (provided separately)
+  2. Add a repo secret named METRICS_TOKEN (a GitHub personal access token)
+  3. Run the workflow once, then remove these comment markers:
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vinothgeethika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothgeethika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinothgeethika&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinothgeethika&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
+-->
 
 <h3 align="center">🚀 Thanks for visiting my profile! If you like my work, drop a ⭐ on my repos.</h3>
 
