@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="100%" role="img" aria-label="Character status card">
+<defs>
+  <linearGradient id="bar1" x1="0" x2="1"><stop offset="0" stop-color="#ff5b1f"/><stop offset="1" stop-color="#ffe066"/></linearGradient>
+  <linearGradient id="bar2" x1="0" x2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+</defs>
+<rect x="1.5" y="1.5" width="897" height="437" rx="18" fill="#0b1029" stroke="#ff9d2e" stroke-width="3"/>
+<polygon points="2,2 640,2 606,54 2,54" fill="#ff7a1a"/>
+<text x="30" y="38" font-size="24" font-weight="900" font-style="italic" letter-spacing="4" fill="#1a0f00" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif">CHARACTER STATUS</text>
+<circle cx="800" cy="30" r="6" fill="#4ade80"><animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="815" y="35" font-size="14" font-weight="700" fill="#4ade80" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">ONLINE</text>
+<!-- emblem -->
+<g transform="translate(150,190)">
+  <circle r="74" fill="none" stroke="#ff9d2e" stroke-width="2" stroke-dasharray="10 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/></circle>
+  <circle r="62" fill="none" stroke="#3b4696" stroke-width="1.5" stroke-dasharray="3 6"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite"/></circle>
+  <polygon points="0,-50 43,-25 43,25 0,50 -43,25 -43,-25" fill="#151b4a" stroke="#ffb020" stroke-width="3"/>
+  <text y="20" text-anchor="middle" font-size="60" font-weight="900" fill="#ffb020" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif">V<animate attributeName="opacity" values="1;0.75;1" dur="2s" repeatCount="indefinite"/></text>
+</g>
+<text x="150" y="304" text-anchor="middle" font-size="22" font-weight="800" fill="#ffffff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif">VINOTH</text>
+<text x="150" y="330" text-anchor="middle" font-size="14" fill="#ffd9a0" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif">Class: Full-Stack Sorcerer</text>
+<text x="150" y="352" text-anchor="middle" font-size="13" fill="#9fb0ff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif">Title: Automation Master</text>
+<line x1="300" y1="76" x2="300" y2="370" stroke="#2a3270" stroke-width="2"/>
+<text x="330" y="100" font-size="16" fill="#e8ecff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif" font-weight="600">Python</text>
+<rect x="520" y="86" width="290" height="16" rx="8" fill="#1b2254"/>
+<rect x="520" y="86" width="261" height="16" rx="8" fill="url(#bar1)"><animate attributeName="width" from="0" to="261" dur="1.6s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="855" y="100" text-anchor="end" font-size="14" font-weight="700" fill="#ffb020" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">90%</text>
+<text x="330" y="141" font-size="16" fill="#e8ecff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif" font-weight="600">JavaScript</text>
+<rect x="520" y="127" width="290" height="16" rx="8" fill="#1b2254"/>
+<rect x="520" y="127" width="246" height="16" rx="8" fill="url(#bar1)"><animate attributeName="width" from="0" to="246" dur="1.6s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="855" y="141" text-anchor="end" font-size="14" font-weight="700" fill="#ffb020" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">85%</text>
+<text x="330" y="182" font-size="16" fill="#e8ecff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif" font-weight="600">React</text>
+<rect x="520" y="168" width="290" height="16" rx="8" fill="#1b2254"/>
+<rect x="520" y="168" width="232" height="16" rx="8" fill="url(#bar1)"><animate attributeName="width" from="0" to="232" dur="1.6s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="855" y="182" text-anchor="end" font-size="14" font-weight="700" fill="#ffb020" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">80%</text>
+<text x="330" y="223" font-size="16" fill="#e8ecff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif" font-weight="600">Node.js</text>
+<rect x="520" y="209" width="290" height="16" rx="8" fill="#1b2254"/>
+<rect x="520" y="209" width="226" height="16" rx="8" fill="url(#bar1)"><animate attributeName="width" from="0" to="226" dur="1.6s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="855" y="223" text-anchor="end" font-size="14" font-weight="700" fill="#ffb020" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">78%</text>
+<text x="330" y="264" font-size="16" fill="#e8ecff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif" font-weight="600">Automation</text>
+<rect x="520" y="250" width="290" height="16" rx="8" fill="#1b2254"/>
+<rect x="520" y="250" width="267" height="16" rx="8" fill="url(#bar1)"><animate attributeName="width" from="0" to="267" dur="1.6s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="855" y="264" text-anchor="end" font-size="14" font-weight="700" fill="#ffb020" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">92%</text>
+<text x="330" y="305" font-size="16" fill="#e8ecff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif" font-weight="600">UI/UX &amp; Design</text>
+<rect x="520" y="291" width="290" height="16" rx="8" fill="#1b2254"/>
+<rect x="520" y="291" width="238" height="16" rx="8" fill="url(#bar1)"><animate attributeName="width" from="0" to="238" dur="1.6s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="855" y="305" text-anchor="end" font-size="14" font-weight="700" fill="#ffb020" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">82%</text>
+<text x="330" y="346" font-size="16" fill="#e8ecff" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif" font-weight="600">Machine Learning*</text>
+<rect x="520" y="332" width="290" height="16" rx="8" fill="#1b2254"/>
+<rect x="520" y="332" width="87" height="16" rx="8" fill="url(#bar2)"><animate attributeName="width" from="0" to="87" dur="1.6s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="855" y="346" text-anchor="end" font-size="14" font-weight="700" fill="#ffb020" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">30%</text>
+<text x="330" y="378" font-size="12" fill="#7f8cc8" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans JP','Yu Gothic',sans-serif">* training arc in progress</text>
+<rect x="24" y="394" width="852" height="32" rx="8" fill="#151b4a"/>
+<text x="450" y="415" text-anchor="middle" font-size="14" fill="#ffd9a0" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace">NEXT QUEST &gt;&gt; Anisift   |   TRAINING ARC &gt;&gt; ML · AWS · Next.js</text>
+</svg>
