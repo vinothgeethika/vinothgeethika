@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vinothgeethika&label=Profile+Views&color=ff7a1a&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vinothgeethika&label=Profile+Views&color=b388ff&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -7,32 +7,32 @@
 </p>
 
 <p align="center">
-  <img src="./assets/status-card.svg" alt="Character status" width="100%" />
+  <img src="./assets/dragon-card.svg" alt="Profile card with a cute dragon" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://vinothgeethika.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff7a1a?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://vinothgeethika.netlify.app/writing"><img src="https://img.shields.io/badge/Articles-1a1450?style=for-the-badge&logo=readme&logoColor=ffb020" alt="Articles" /></a>
-  <a href="https://anishift.netlify.app/"><img src="https://img.shields.io/badge/Anisift-ff4d1a?style=for-the-badge&logo=rocket&logoColor=white" alt="Anisift" /></a>
+  <a href="https://vinothgeethika.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2b1252?style=for-the-badge&logo=netlify&logoColor=9be7ff" alt="Portfolio" /></a>
+  <a href="https://vinothgeethika.netlify.app/writing"><img src="https://img.shields.io/badge/Articles-5b2a86?style=for-the-badge&logo=readme&logoColor=white" alt="Articles" /></a>
+  <a href="https://anishift.netlify.app/"><img src="https://img.shields.io/badge/Anisift-c0508f?style=for-the-badge&logo=rocket&logoColor=white" alt="Anisift" /></a>
   <a href="mailto:vinothgeethika232@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
-## 🔥 Current Missions
+## 🌸 Quest Log
 
-- 🔭 **Main quest:** building **[Anisift](https://anishift.netlify.app/)**
-- 🌱 **Training arc:** Machine Learning, AWS and Next.js
-- 👯 **Recruiting allies:** open-source Python bots, SaaS projects and automation tools
-- 🤝 **Need backup with:** scaling SaaS apps and advanced UI/UX design
-- 💬 **Ask me about:** Python Automation, Web Development, SaaS Architecture and Graphic Design
-- 📝 **Battle journal:** [vinothgeethika.netlify.app/writing](https://vinothgeethika.netlify.app/writing)
-- 📫 **Summon me:** vinothgeethika232@gmail.com
-- ⚡ **Secret technique:** I automate everything except my life 🤖
+- 🔭 Currently working on **[Anisift](https://anishift.netlify.app/)**
+- 🌱 Currently learning **Machine Learning, AWS or Next.js**
+- 👯 Looking to collaborate on **Open-source Python bots, SaaS projects or Automation tools**
+- 🤝 Looking for help with **Scaling SaaS applications or Advanced UI/UX design**
+- 💬 Ask me about **Python Automation, Web Development, SaaS Architecture and Graphic Design**
+- 📝 I write articles at **[vinothgeethika.netlify.app/writing](https://vinothgeethika.netlify.app/writing)**
+- 📫 Reach me at **vinothgeethika232@gmail.com**
+- ⚡ Fun fact: **I automate everything except my life 🤖**
 
 ---
 
-## 🗡️ Arsenal
+## ⚔️ Languages & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />&nbsp;
